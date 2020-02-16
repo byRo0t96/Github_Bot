@@ -23,7 +23,6 @@
 
 # How to get this app
 ```
-cd
 git clone https://github.com/byRo0t96/Github_Bot.git
 cd Github_Bot
 ```
