@@ -16,6 +16,11 @@
 [✓] selenium
 [✓] urllib3
 
+# SUPPORTED DISTRIBUTIONS
+|Distribution | Version Check | supported | status |
+----------|-------|------|-------|
+|Kali Linux|2020.1 | yes | working   |
+
 # How to get this app
 ```
 cd
@@ -35,6 +40,8 @@ bash bot.sh
 ...
 ```
 
+# USAGE
+Please go to the [Youtube](https://youtu.be/HMvnF2vRROQ).
 
 ### Contact :
 
