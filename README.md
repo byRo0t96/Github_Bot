@@ -29,6 +29,7 @@ cd Github_Bot
 
 # How to run
 ```
+pip install -r requirements.txt
 bash bot.sh
 ```
 
